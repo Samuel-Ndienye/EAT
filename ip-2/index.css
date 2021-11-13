@@ -42,14 +42,19 @@ font-size: 30px;
 padding-left: 20px;
 }
 .Order{
-    font-size: 20px;
-    padding-left:60px ;
+    font-size: 14px;
+    padding-left:30px ;
     background-color: #f19201;
     color: white;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
     
 }
 .order{
     padding-top: 60px;
+    padding-right:10%;
 }
 
 .services-section{
@@ -177,7 +182,9 @@ margin: 90px;
                     display: flex;
                     background: white;
                     width: 350px;
-                    
+                    padding-bottom: 5%;
+                    padding-left: 5%;
+                    padding-top: 5%;
 
                 }
                 .oda{
@@ -191,7 +198,12 @@ margin: 90px;
                 .col5{
                     display: flex;
                     background: white;
-                    width: 350px;}
+                    width: 350px;
+                    margin-top: 8%;
+                    padding-bottom: 5%;
+                    padding-left: 5%;
+                    padding-top: 5%;
+                }
 
                     .chicken-stew{
                         margin-left: 20px;
@@ -200,7 +212,11 @@ margin: 90px;
                     .col6{
                         display: flex;
                         background: white;
-                        width: 350px;}
+                        width: 350px;
+                        padding-top: 5%;
+                        padding-bottom: 5%;
+                        padding-left: 5%;
+                    }
 
                        .rice{
                             margin-left: 20px;
@@ -210,7 +226,10 @@ margin: 90px;
                             display: flex;
                             background: white;
                             width: 350px;
-                            
+                            padding-top: 5%;
+                            margin-top: 7%;
+                            padding-bottom: 5%;
+                            padding-left: 5%;
                         
                         }
 
