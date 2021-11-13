@@ -177,7 +177,9 @@ margin: 90px;
                     display: flex;
                     background: white;
                     width: 350px;
-                    
+                    padding-left: 5%;
+                    padding-top: 5%;
+                    padding-bottom: 5%;
 
                 }
                 .oda{
@@ -191,7 +193,12 @@ margin: 90px;
                 .col5{
                     display: flex;
                     background: white;
-                    width: 350px;}
+                    width: 350px;
+                    padding-left: 5%;
+                    padding-top: 5%;
+                    margin-top: 7%;
+                    padding-bottom: 5%;
+                }
 
                     .chicken-stew{
                         margin-left: 20px;
@@ -200,7 +207,11 @@ margin: 90px;
                     .col6{
                         display: flex;
                         background: white;
-                        width: 350px;}
+                        width: 350px;
+                        padding-top: 5%;
+                        padding-left: 5%;
+                        padding-bottom: 5%;
+                    }
 
                        .rice{
                             margin-left: 20px;
@@ -210,7 +221,10 @@ margin: 90px;
                             display: flex;
                             background: white;
                             width: 350px;
-                            
+                            padding-left: 5%;
+                            padding-top: 5%;
+                            margin-top: 7%;
+                            padding-bottom: 5%;
                         
                         }
 
