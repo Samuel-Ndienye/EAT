@@ -1,7 +1,7 @@
 # The project name
-* The-Burger-Palace
+* THE-LETUCE-EAT
 #### Brief Description 
-* This is a landing page for a burger shop, 2021
+* This is a landing page for a Traditional Food Restaurant, 2021
 #### Author
 * Samuel Ndienye Wang'ang'a
 ## Description
