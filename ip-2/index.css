@@ -23,33 +23,42 @@ a{
     margin-top: 4%;
 }
 .moring{
-    margin-top: 3.6%;
-    margin-right: 17%;
+  margin-top:3.6%;
+  margin-right: 7%;
   background-color: #f19201;
   color: white;
+  padding-right: 20px;
+  padding-left:20px ;
+  
 }
 .premium{
     background-image: url(images/image2.png);
     background-size:cover;
-    width: 
-    height: 700px; 
-    color:white;
+    width:auto 
+    
 }
-.premium{
-padding-top: 130px;
-padding-bottom: 70px;
-font-size: 30px;
-padding-left: 20px;
+.welcome{
+    
+color:white;
+padding-top: 120px;
+padding-bottom: 120px;
+font-size: 22px;
+padding-left: 90px;
 }
 .Order{
-    font-size: 20px;
-    padding-left:60px ;
+    font-size: 14px;
+    padding-left:30px ;
     background-color: #f19201;
     color: white;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
     
 }
 .order{
-    padding-top: 60px;
+    padding-bottom: 10%;
+    margin-left:7%;
 }
 
 .services-section{
@@ -69,47 +78,72 @@ text-align: center;
     margin-bottom: 60px;
 }
 .circle-one{
-    -webkit-border-radius:50%;
-    -moz-border-radius:50%;
-    margin: 90px;
-    background: #f19201;
-border-radius: 50%;
+    -webkit-border-radius:60%;
+    -moz-border-radius:60%;
+     margin: 70px;
+     background: #f19201;
+     border-radius: 200%;
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 3%;
+     padding-bottom: 2%;
+     
 }
 .col1{
     background: white;
     width: 200px;
-    margin-left: 0px;
-    
+    padding-left:50px;
+    padding-top: 30px; 
+    padding-bottom: 2%;
+    padding-right: 20px;
+}
+.col2{
+    width: 200px;
+    padding-left:30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20%;
 }
 
 .circle-two{
 -moz-border-radius:50%;
 -webkit-border-radius:50%;
 background-color:#f19201;
-border-radius: 50%;
+border-radius: 200%;
+margin: 60px;
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 3%;
+padding-bottom: 2%;
+}
+.keep{
+background: white;
+margin-left:0px;
+width: 200px;
+bottom: 0px;
+}
+
+.circle-three{
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+background-color:#f19201;
+border-radius: 200%;
 margin: 90px;
-    }
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 3%;
+padding-bottom: 2%;
+}
 
-    .keep{
-        background: white;
-        margin-left:0px;
-        width: 200px;
-   bottom: 0px;
-         }
-
-         .circle-three{
-            -moz-border-radius:50%;
-            -webkit-border-radius:50%;
-            background-color:#f19201;
-            border-radius: 50%;
-            margin: 90px;
-                }
-
-                .col3{
-                        background: white;
-                        margin-left: 0px;
-                        width: 200px;
-                   bottom: 0px;
+.col3{
+background: white;
+margin-left: 0px;
+width: 200px;
+bottom: 0px;
+padding-left: 2%;
+padding-right: 3%;
+padding-top: 3%;
+padding-bottom: 2%;
                          
                 }
 
@@ -130,16 +164,11 @@ margin: 90px;
                     margin-right: 180px;
                     font-size: 50px;
                     border-bottom: 6px solid white;
-
-                    
-                
-                          
-                    
-                 }
+                }
                 .organic{
                     font-size: 40px;
                     margin-top: 100px;
-                    margin:left:180px;
+                    margin-left:180px;
             
                 }
                  .mix{
@@ -180,6 +209,9 @@ margin: 90px;
                     padding-left: 5%;
                     padding-top: 5%;
                     padding-bottom: 5%;
+                    padding-bottom: 5%;
+                    padding-left: 5%;
+                    padding-top: 5%;
 
                 }
                 .oda{
@@ -198,6 +230,10 @@ margin: 90px;
                     padding-top: 5%;
                     margin-top: 7%;
                     padding-bottom: 5%;
+                    margin-top: 8%;
+                    padding-bottom: 5%;
+                    padding-left: 5%;
+                    padding-top: 5%;
                 }
 
                     .chicken-stew{
@@ -211,6 +247,8 @@ margin: 90px;
                         padding-top: 5%;
                         padding-left: 5%;
                         padding-bottom: 5%;
+                        padding-bottom: 5%;
+                        padding-left: 5%;
                     }
 
                        .rice{
@@ -225,6 +263,10 @@ margin: 90px;
                             padding-top: 5%;
                             margin-top: 7%;
                             padding-bottom: 5%;
+                            padding-top: 5%;
+                            margin-top: 7%;
+                            padding-bottom: 5%;
+                            padding-left: 5%;
                         
                         }
 
