@@ -133,11 +133,15 @@ padding-bottom: 2%;
                 }
 
 
-                .col3{
-                        background: white;
-                        margin-left: 0px;
-                        width: 200px;
-                   bottom: 0px;
+                  .col3{
+                  background: white;
+                  margin-left: 0px;
+                  width: 200px;
+                  bottom: 0px;
+                  padding-left: 2%;
+                  padding-right: 3%;
+                  padding-top: 3%;
+                  padding-bottom: 2%;
                          
                 }
 
