@@ -9,9 +9,7 @@ This projects is about a restaurant`s website which has been opened up few month
 * Either a computer,phone,tablet or Ipad
 * An access to the internet
 ## Link to the website
-* click on the link provided below to view the site.https://samuel-ndienye.github.io/Letuce-Eat/ 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-
+* click on the link provided below to view the site.https://samuel-ndienye.github.io/LETUCE-EAT/
 ## Technologies Used
 HTML - which was used to build structure of the pages.
 CSS -which was used to style pages including left side of the navigation bar.
