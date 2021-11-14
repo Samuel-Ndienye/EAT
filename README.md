@@ -8,9 +8,8 @@ This projects is about a restaurant`s website which has been opened up few month
 ## Setup/Installation Requirements
 * Either a computer,phone,tablet or Ipad
 * An access to the internet
-## Installation process
-* click on the link provided below to view the site.https://samuel-ndienye.github.io/Letuce-Eat/
-* 
+## Link to the website
+* click on the link provided below to view the site.https://samuel-ndienye.github.io/Letuce-Eat/ 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
 ## Technologies Used
