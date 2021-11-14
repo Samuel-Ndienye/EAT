@@ -7,7 +7,7 @@
 * License
 * Author's info
 #### This website is about a Traditional Food restaurant. 2021
-#### By *Samuel Ndienye*
+#### By :*Samuel Ndienye*
 ## Description
 This projects is about a restaurant`s website which has been opened up few months ago and the owner is willing to do anything to reach a larger market for his products including creation of the restaurants website.I have created the website using HTML and CSS.
 ## Setup/Installation Requirements
@@ -39,4 +39,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ### Author's Info
-* Slack-Samuel Wang`ang`a
+* Slack-Samuel Wang'ang'a
