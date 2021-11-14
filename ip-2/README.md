@@ -7,7 +7,7 @@
 ## Description
 This is a Traditional food restaurant website and its used to inform the customers on available traditional food varieties  and their price ranges.There is also social media handles which customers might use to give feedback on the services provided or place their orders.
 ## Link to Website
-* 
+* https://github.com/Samuel-Ndienye/LETUCE-EAT
 ## Setup/Installation Requirements
 * Access to internet
 * Either smartphone or a computer
