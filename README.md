@@ -17,9 +17,9 @@ This projects is about a restaurant`s website which has been opened up few month
 * click on the link provided below to view the site.https://samuel-ndienye.github.io/LETUCE-EAT/
 ## Technologies Used
 ### HTML 
-*Which was used to build structure of the pages.
+Used to build structure of the pages.
 ### CSS 
-*Which was used to style pages including left side of the navigation bar.
+Used to style pages including left side of the navigation bar.
 ## Support and contact details
 If you run into any issues you can reach me through my email Samuel2003ngash@gmail.com or make a contribution to the code.
 ### License
