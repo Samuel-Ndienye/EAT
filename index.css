@@ -246,7 +246,14 @@ padding-bottom: 2%;
                     .col6{
                         display: flex;
                         background: white;
-                        width: 350px;}
+                        width: 350px;
+                        padding-top: 5%;
+                        padding-left: 5%;
+                        padding-bottom: 5%;
+                        padding-bottom: 5%;
+                        padding-left: 5%;
+                        margin-right: 10%;
+                  }
 
                        .rice{
                             margin-left: 20px;
